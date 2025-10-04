@@ -114,10 +114,6 @@ Ensure your `.env` values are available to the container (using `--env-file` or 
 - Keep your `.env` and API keys out of version control.
 - Be mindful of returning sensitive medical advice. This project is a demo and should not be used as a substitute for professional medical guidance.
 
-## License
-
-This project is provided as-is. Add a LICENSE file if you want to specify a license (MIT recommended for demos).
-
 ## Acknowledgements
 
 - Built with Flask, LangChain, Pinecone, Hugging Face sentence-transformers and OpenAI-style chat models.
